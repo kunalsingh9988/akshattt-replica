@@ -3,7 +3,7 @@ import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";import{A as t,C as n,L as r,
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Enterprise Platform — Redesigning iBE.net during a rebrand · Akshat Singh</title>
+<title>Enterprise Platform — Redesigning iBE.net during a rebrand · Srishti</title>
 <meta name="description" content="Redesigning an enterprise platform during its rebrand: a progress indicator, auto-save that says so, and screens grouped the way people think. Web and mobile, 12 months.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
