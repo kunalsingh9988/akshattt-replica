@@ -694,7 +694,8 @@ const INIT = [
   {f:'Instrument Serif', v:'plain', ink:4, paper:0, blk:4, rot:0, size:1.3, lift:-.02},
   {f:'Rubik Mono One', v:'plain', ink:2, paper:0, blk:4, rot:0, size:.82, lift:.08},
   {f:'Silkscreen', v:'plain', ink:1, paper:0, blk:4, rot:6, size:.95, lift:-.08},
-  {f:'Anton', v:'plain', ink:3, paper:0, blk:4, rot:3, size:1.22, lift:.02}
+  {f:'Anton', v:'plain', ink:3, paper:0, blk:4, rot:3, size:1.22, lift:.02},
+  {f:'Unbounded', v:'block', ink:0, paper:1, blk:4, rot:4, size:.98, lift:-.02}
 ];
 
 /* sticker art, all drawn here */
